@@ -1,25 +1,6 @@
-✨
-V2 Available Now!Redesigned UI · More features · Faster performance
-Upgrade to V2 →
-✕
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-24113
-Fork on GitHub
-8303
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Miguel Angel Padilla</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<h3 align="center">A passionate Developer from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=migueangel1228&label=Profile%20views&color=0e75b6&style=flat" alt="migueangel1228" /> </p>
 
